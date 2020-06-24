@@ -141,6 +141,13 @@
   <ItemGroup>
     <ClCompile Include="outrocsv.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="saida-console.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="tela-console.png" />
+    <Image Include="tela-terminal.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
